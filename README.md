@@ -1,5 +1,5 @@
 # EC503_Learning_from_data
-1. Link to Google drive folder : https://drive.google.com/file/d/1HghMa1QZdrU1wXfB9-eFEUmD43SNsPLY/view?usp=sharing
+1. Link to Google drive folder : https://drive.google.com/file/d/1HghMa1QZdrU1wXfB9-eFEUmD43SNsPLY/view?usp=sharing.
 The Google drive folder contains all the datasets and codes that used in this project
 
 2. Link to original sources of data:
