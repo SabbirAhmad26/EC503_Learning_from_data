@@ -8,11 +8,8 @@ https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 3. Libraries and dependencies: pandas, numpy, matplotlib, seaborn, cv2, sklearn,tqdm
 
 4. In the Dimension_Reduction_Pipeline.py:
-- First nested list item
-     - load_data() function is used for loading the images, converting from RGB iamges into
-grayscale images, returning a numpy array.
-
-   &emsp;&emsp;(b) create_label() function is used to generate the label for the data.
+- load_data() function is used for loading the images, converting from RGB iamges into grayscale images, returning a numpy array.
+- create_label() function is used to generate the label for the data.
   
    &emsp;&emsp;(c) prepare_data() function calls load_data() function to load the positive and negative images
 and then calls create_label() function to generate the numerical label for each class.
