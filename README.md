@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 
 4. In the Dimension_Reduction_Pipeline.py:
 
-  (a) load_data() function is used for loading the images, converting from RGB iamges into
+ &emsp; (a) load_data() function is used for loading the images, converting from RGB iamges into
 grayscale images, returning a numpy array.
 
   (b) create_label() function is used to generate the label for the data.
