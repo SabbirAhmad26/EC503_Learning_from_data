@@ -1,1 +1,1 @@
-# EC503_Leaening_from_data
+# EC503_Learning_from_data
